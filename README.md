@@ -51,7 +51,7 @@ The final analysis is summarized in a structured report and a presentation creat
 * Ran SQL queries for:
 
   * Aggregations & KPIs
-  * Joins
+  * Joins, Window Functions
   * Grouping & filtering
   * Trend analysis
 * Extracted meaningful insights
@@ -118,7 +118,7 @@ jupyter notebook
 
 * Open **MySQL Workbench**
 * Run the `.sql` file included in the repository
-* Execute SQL queries to reproduce analysis
+* Execute SQL queries for analysis
 
 ### **4. Open Power BI File**
 
