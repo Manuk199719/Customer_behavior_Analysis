@@ -11,6 +11,8 @@ Here is the README fully formatted in clean **Markdown**, ready to paste into Gi
 This project showcases a complete data analysis workflow — from loading raw data in Python to performing EDA, cleaning the dataset, running SQL queries in MySQL, and visualizing insights through a Power BI dashboard.
 The final analysis is summarized in a structured report and a presentation created using Gamma.
 
+![Project Workflow](https://github.com/Manuk199719/Customer_behavior_Analysis/blob/41218d08a52c65bb58787344098c6ad94c5c59bd/Project%20Workflow1.png?raw=true)
+
 ---
 
 ## 🧰 **Tools & Technologies**
