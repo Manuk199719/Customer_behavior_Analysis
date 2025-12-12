@@ -36,8 +36,6 @@ The final analysis is summarized in a structured report and a presentation creat
 
 * Descriptive statistics
 * Identified patterns, trends, and distributions
-* Visualized insights using Matplotlib/Seaborn
-  *(Correlation heatmap, bar charts, histograms, box plots)*
 
 ### **3. Data Cleaning & Preprocessing**
 
@@ -92,11 +90,12 @@ The final analysis is summarized in a structured report and a presentation creat
 
 Key findings from the analysis include:
 
-* *(Add insight 1)*
-* *(Add insight 2)*
-* *(Add insight 3)*
-* *(Add insight 4)*
-
+* Clothing category drives the highest performance with 100K+ revenue and 1,700+ sales.
+* Subscription users (27%) show stronger engagement than non-subscribers.
+* Young Adults contribute the highest revenue (~60K) and lead in sales volume.
+* Subscription customers (27%) show higher engagement
+* Introduce loyalty programs or exclusive gifts for subscription users to further increase retention and repeat purchases.
+  
 These insights helped to understand trends, identify patterns, and support decision-making.
 
 ---
