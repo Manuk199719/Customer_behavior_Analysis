@@ -1,6 +1,4 @@
 # Customer_behavior_Analysis
-Data Analysis project showcasing customer behavior analysis using SQL, Python and PowerBI
-Here is the README fully formatted in clean **Markdown**, ready to paste into GitHub:
 
 ---
 
